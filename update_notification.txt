@@ -1,10 +1,1 @@
-LD75 - updated the custom crafting recipes For Iridal and Chatoyant Staffs,
-LD99 - Added inthe means to Synth ioskeha_belt  / +1, per retal
-LD99 / 75 - Kedhareshvar (NPC next to Draider) will sell Rusted Coins, Base price is 300k, killing all 66 VWNM's will drop the price 10k, every 50 NM's you kill will drop the price down another 50k. killing the same mobs 50 times will not work, just like the NM Hunt reward they have to be 50 separate NM's. all in all will drop the total price to 40k
-LD99 / 75 - Fixed issue where Puppet Master JA Override was only lasting 1 minute instead of 3
-LD99 - !shop has been moved to WhoDis NPC in Hangout
-LD75 - NM Hunt Tier 1 - 3 will be released, Free rewards = 50 Kills Campaign Battle Armor Set, 100 Kills = AF +1 Armor Set, 150 Kills - Assault (Amir, Yigit, Pahluwan) Armor Set. Shops - 50 Kills - Trust Shop, 100 Kills - Style Lock Weapons Shop, 150 Kills - Stlye Lock Armor Shop
-LD75 - NM Hunt commands to track kill counts and NM Hunt NPC
-LD99 / 75 - Let Pigs Fly Event Update - You will no longer be able to Call for Help, GM New Command in place to end event at any time if issues come up, !endpigsfly 
-LD75 - added command from 99 !getde to let GM's get dynamic entities for NM Hunt. Go to the zone, use command and it will print out any DE that is spawned so you can !gotoid
-LD99 - Abyssea proc system has been removed, KI's will now be 100% drop without procing
+test
