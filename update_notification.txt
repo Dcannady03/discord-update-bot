@@ -1,12 +1,1 @@
-LD99 - Fixed issue with Voidwatch Purveryors in main cities not displaying your current conquest points and allowing the purchase of Void Dust
-LD99 - Lvl 99 WHM's will now have access to Hastega
-LD99 - Lvl 99 NIN will now have access to the following spells. Jubaku: Ni, Hojo: San, Kurayami: San, Dokumori: Ni,
-LD99 - Utsusemi San will now work
-LD99 - fixed issue where Ochain trial 4397 was asking for wrong items
-LD99 - fixed issue with Unity 145 putting you above map.
-LD99 - New Command !travel <autotranslate city> example : !travel <Norg>
-LD99 - Blu SPell Blazing Bound has been fixed
-LD99 - Abyssea Altepa NM Rani - ???'s have been fixed to allow spawning Rani at each location
-LD99 / 75 - New NPC Dynastrix Location - Hangout - he will store all your limbus items, let you exchange them at a 1/1 ratio, will store your ABC coins and will let you exchange ABC coins for limbus items at a 10 to 1 ratio, trade him gil to withdraw your items,
-LD99 / 75 - Fixed issue with Striking Dummys allowing players to receive RoE credit. Now they dummy will tell you to piss off, go invincible, and disengage you until you cancel the Damage delt quests.
-LD75 - Changed how the Rewards Chest works, It now will always give the Rhapsody of White first for getting level 75 or a craft to 100, Crimson will be given when the other requirement is done. So level 75 for white crafting for crimson or the other way around. Also removed Staff trade in.
+10/28/2024 Updates
