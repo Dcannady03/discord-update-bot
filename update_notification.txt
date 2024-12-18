@@ -1,22 +1,3 @@
-10/28/2024 Updates
-
----
-
-LD99 - Fixed issue with Voidwatch Purveryors in main cities not displaying your current conquest points and allowing the purchase of Void Dust
-LD99 - Lvl 99 WHM's will now have access to Hastega
-LD99 - Lvl 99 NIN will now have access to the following spells. Jubaku: Ni, Hojo: San, Kurayami: San, Dokumori: Ni,
-LD99 - Utsusemi San will now work
-LD99 - fixed issue where Ochain trial 4397 was asking for wrong items
-LD99 - fixed issue with Unity 145 putting you above map.
-LD99 - New Command !travel <autotranslate city> example : !travel <Norg>
-LD99 - Blu SPell Blazing Bound has been fixed
-LD99 - Abyssea Altepa NM Rani - ???'s have been fixed to allow spawning Rani at each location
-LD99 / 75 - New NPC Dynastrix Location - Hangout - he will store all your limbus items, let you exchange them at a 1/1 ratio, will store your ABC coins and will let you exchange ABC coins for limbus items at a 10 to 1 ratio, trade him gil to withdraw your items,
-LD99 / 75 - Fixed issue with Striking Dummys allowing players to receive RoE credit. Now they dummy will tell you to piss off, go invincible, and disengage you until you cancel the Damage delt quests.
-LD75 - Changed how the Rewards Chest works, It now will always give the Rhapsody of White first for getting level 75 or a craft to 100, Crimson will be given when the other requirement is done. So level 75 for white crafting for crimson or the other way around. Also removed Staff trade in.
-
----
-
 LD75 - updated the custom crafting recipes For Iridal and Chatoyant Staffs,
 LD99 - Added inthe means to Synth ioskeha_belt  / +1, per retal
 LD99 / 75 - Kedhareshvar (NPC next to Draider) will sell Rusted Coins, Base price is 300k, killing all 66 VWNM's will drop the price 10k, every 50 NM's you kill will drop the price down another 50k. killing the same mobs 50 times will not work, just like the NM Hunt reward they have to be 50 separate NM's. all in all will drop the total price to 40k
@@ -27,3 +8,27 @@ LD75 - NM Hunt commands to track kill counts and NM Hunt NPC
 LD99 / 75 - Let Pigs Fly Event Update - You will no longer be able to Call for Help, GM New Command in place to end event at any time if issues come up, !endpigsfly 
 LD75 - added command from 99 !getde to let GM's get dynamic entities for NM Hunt. Go to the zone, use command and it will print out any DE that is spawned so you can !gotoid
 LD99 - Abyssea proc system has been removed, KI's will now be 100% drop without procing
+
+---
+
+I am posting this ahead of the updates we will be doing at some point today. We will let you know when the updates happen. Please do not ask as well have not decided on a time yet.
+
+---
+
+LD75 - Re added lost shops in !shop command that were missing since last update.
+LD75- Updated Custom Crafts recipes with login campaign item +1 crafts
+LD75- WhackaMole has been updated with proper despawn message and AMNESIA effect added on attack debuff.
+LD75 - Removed !warp and replaced with !runaway increased timer from 5 mins to 30 mins to re-use.
+LD75 - Updated drops for Hobgoblin Venerer to include Air Tank in his drop pool.
+LD75 - Added more locations to !travel command. Tavnazian Safehold
+Nashmau
+Bastok Markets [S]
+Southern San d'Oria [S]
+Windurst Waters [S]
+LD99 - fixed issue where Ramuh was casting Aero spells
+LD99 / 75- fixed issue where NPC was not capping all skills, was missing geo handbell
+LD99 - PLD AF has been added to Run Jobshop, BLM AF has been added to GEO job shop to allow upgrades for reforged
+LD99 - Whodis is now fixed and will not longer crash if multiple ppl are using him
+LD75 - Added a new command for GM's that will add the KI's for skip mission if something goes wrong with the player not getting some of them. can be given by expansion or all at same time.
+LD99 - Fix and or code the remaining missing blue spells.
+LD99 - fixed issue allowing players to participate in VWNM & Unity Wanted battles if they are in alliance and do not meet the requirements
